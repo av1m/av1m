@@ -346,7 +346,7 @@ jobs:
 
           new_readme = <<~HTML
 
-            ## Tim's Community Chess Tournament
+            ## Avi's Community Chess Tournament [![HitCount](http://hits.dwyl.com/av1m/av1m.svg)](http://hits.dwyl.com/av1m/av1m)
 
             **#{game_state}** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a #{(game.board.active_color) ? 'black (solid)' : 'white (hollow)'} piece.
 
